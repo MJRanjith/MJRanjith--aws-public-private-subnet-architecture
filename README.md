@@ -55,7 +55,8 @@ Once you've configured all the settings, click "Create VPC."
 
 ![6](https://github.com/user-attachments/assets/58d7614e-be12-48b2-b6a8-8cd4c48a986a)
 
-![7](https://github.com/user-attachments/assets/9a5dd20b-26f1-46c7-a64f-226c109ab193)
+![12](https://github.com/user-attachments/assets/c0dcbbea-679a-4a29-ae42-65da8822dbca)
+
 
 
 ![13](https://github.com/user-attachments/assets/963ba598-56f6-4d77-bee6-0c1fee679fec)

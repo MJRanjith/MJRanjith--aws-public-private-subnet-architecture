@@ -30,13 +30,16 @@ On the other hand, the project's servers reside in the private subnets. Their de
 
 Once you've configured all the settings, click "Create VPC."
 
-![vpc](https://github.com/user-attachments/assets/1244f142-d48f-4680-8eb0-9e6479e9a977)
 
-![vpc1](https://github.com/user-attachments/assets/d5e2a49c-cc03-4eab-8cc2-7539873d4a25)
+![vpc](https://github.com/user-attachments/assets/1633af81-e046-4bd8-a063-afd66331df51)
 
-![vp2](https://github.com/user-attachments/assets/9ebe1fb6-321a-4c78-8651-b480a9a375be)
 
-![vpc3](https://github.com/user-attachments/assets/fa48c023-f6b4-4717-8734-ee215941143e)
+![2](https://github.com/user-attachments/assets/5f24cbb1-2c71-4498-adf6-d116eaad155e)
+
+![3](https://github.com/user-attachments/assets/4169c327-f901-4419-8a66-d85e404ea087)
+
+
+![4](https://github.com/user-attachments/assets/5cc58f5a-006a-4b86-a985-933ad5001627)
 
 
 6. Now you can see you are successfully Created VPC .
@@ -47,43 +50,52 @@ Once you've configured all the settings, click "Create VPC."
 ### Step 2:
 #### Creating the Auto Scaling Group :
 
-![autoscale](https://github.com/user-attachments/assets/0c62a4a9-403d-403c-a216-bb8b913bc2d3)
+![5](https://github.com/user-attachments/assets/c0828b57-e866-4e5a-bbaf-53ba6b6aedc9)
 
-![autoscale1](https://github.com/user-attachments/assets/4999bda3-c8f7-42d7-bea0-2d46f7dc3397)
 
-![lunch_tmplete](https://github.com/user-attachments/assets/bfea52fa-dcb6-4b3f-a8bd-162a26871332)
+![6](https://github.com/user-attachments/assets/58d7614e-be12-48b2-b6a8-8cd4c48a986a)
 
-![lunch_tmplete1](https://github.com/user-attachments/assets/59b2b6db-5425-414b-a914-3aa3751e7391)
+![7](https://github.com/user-attachments/assets/9a5dd20b-26f1-46c7-a64f-226c109ab193)
+
+
+![13](https://github.com/user-attachments/assets/963ba598-56f6-4d77-bee6-0c1fee679fec)
+
 
 
 1. Now you have to choose the Key-pair you created.
 
-![lunch_tmplete2](https://github.com/user-attachments/assets/62bbbeab-180c-4216-ac0a-519ae73e7191)
+![17](https://github.com/user-attachments/assets/ab4a9260-69c0-4996-a468-abed9439cc3b)
 
 
-![lunch_tmplete2](https://github.com/user-attachments/assets/c0b6082b-3784-45d6-a482-ebd285d4d3f3)
+![14](https://github.com/user-attachments/assets/89f58404-4726-4668-b637-d96529e28754)
 
-![lunch_tmplete3](https://github.com/user-attachments/assets/50e0a273-4f99-4e7b-8af1-b656999fca83)
 
-![lunch_tmplete4](https://github.com/user-attachments/assets/c3ebdea5-5827-41ea-9a0a-01e9144c4307)
 
-![autoscale2](https://github.com/user-attachments/assets/a687f76a-333f-4dd5-93d1-4bdd23945586)
+![15](https://github.com/user-attachments/assets/85b88629-9cea-4807-90cb-c5f003552bf7)
+
+![16](https://github.com/user-attachments/assets/3cf8ff9d-4da5-4e53-99d2-c665500200fc)
+
+![7](https://github.com/user-attachments/assets/75efc4e1-fbcf-42bf-9a6b-b97e71d74fa1)
 
 
 2. Scroll Down and then Click "Next".
-![autoscale3](https://github.com/user-attachments/assets/56a01de8-1f6c-4323-8e96-5beaaee767c1)
+![8](https://github.com/user-attachments/assets/4b3d0b41-fb65-43cd-b689-2de67e0c1895)
+
 
 3. Scroll Down and then Click "Next".
 
-![autoscale4](https://github.com/user-attachments/assets/577f6e14-989c-4370-8088-12d82e4c6082)
+![9](https://github.com/user-attachments/assets/05f80eb4-9f8b-46a8-af61-efe26f05b772)
+
 
 4. Scroll Down and then Click "Next".
 
-![autoscale5](https://github.com/user-attachments/assets/039f2e78-8986-4444-8b4f-68631016e3dc)
+![10](https://github.com/user-attachments/assets/c97b544f-2c82-4bdf-8545-db0ebb1cec2b)
+
 
 5. Scroll Down and then Click "Skip to Review".
 
-![autoscale6](https://github.com/user-attachments/assets/e23070be-49cc-4a52-a532-84efb2795520)
+![11](https://github.com/user-attachments/assets/d8b5e021-6ec7-45e9-905e-6f27165f318d)
+
 6. Now your are Successfully Created Auto Scaling Group.<br>
 7. Open the AWS Management Console.<br>
 8. Navigate to the EC2 console by clicking on "Services" in the top-left corner, then selecting "EC2" under the "Compute" section.<br>
@@ -96,16 +108,21 @@ Since you mentioned that the Auto Scaling Group launched instances in different 
 
 1. Launch Instance as Specified below .
 
-![bastion](https://github.com/user-attachments/assets/8f7c2d2e-6af6-481a-9b10-74e5c6147b21)
-
-![bastion1](https://github.com/user-attachments/assets/d22380b6-906f-4f0f-9727-842d969c5fe3)
-
-![bastion2](https://github.com/user-attachments/assets/a30010df-18df-435c-878b-54c91ba3a096)
-
-![bastion3](https://github.com/user-attachments/assets/9e977d45-6bda-4970-814d-f4b845910cd4)
+![19](https://github.com/user-attachments/assets/44a6a6e1-2394-4317-9351-a7e93890714b)
 
 
-![instance](https://github.com/user-attachments/assets/b933bc48-64d2-49b0-a081-50a0a30ec112)
+![20](https://github.com/user-attachments/assets/988946b1-8400-45a6-a20e-bc5238493a05)
+
+
+![21](https://github.com/user-attachments/assets/f14ee2cc-735f-4822-a1ce-8694e86f1a0f)
+
+
+![22](https://github.com/user-attachments/assets/3e2c5fa2-79ef-4102-b5a9-0df82d74882c)
+
+
+
+![18](https://github.com/user-attachments/assets/33e8a0f9-c32d-4f45-b8df-c1872b753b6c)
+
 
 
 ### Step 4: 
@@ -168,23 +185,31 @@ We intentionally deployed the application on only one instance to check if the L
 1. Access the EC2 Terminal.
 2. Follow the steps outlined below.
 
-![loadbalancer](https://github.com/user-attachments/assets/1d179feb-277a-4f7c-b868-70199834c886)
+![24](https://github.com/user-attachments/assets/82f6a941-4e83-44fd-b9ea-6f6c5dcab50a)
 
-![loadbalancer1](https://github.com/user-attachments/assets/096477e1-cde9-4348-a209-39258e2d7ead)
 
-![loadbalancer2](https://github.com/user-attachments/assets/91f9143e-2322-4549-90f8-4c99a33c7fc9)
+![25](https://github.com/user-attachments/assets/adc94e0b-c2b9-490c-8451-3424d7e1a0f2)
 
-![loadbalancer3](https://github.com/user-attachments/assets/cbb8c99e-9131-403a-b8f6-8856beba2b24)
 
-![loadbalancer4](https://github.com/user-attachments/assets/2b8dd308-5163-4d9f-803e-1515cb016321)
+![26](https://github.com/user-attachments/assets/34a1ce12-1e7b-45fd-93e4-d40d965e52d1)
 
-![loadbalancer5](https://github.com/user-attachments/assets/0e08c50e-713e-4ef5-b8cc-c11997d53bf2)
 
-![loadbalancer6](https://github.com/user-attachments/assets/c461ae6d-a0ae-411a-bd6e-562ba80e7f60)
+![27](https://github.com/user-attachments/assets/397af7de-aba2-410e-8455-54778179985d)
 
-![loadbalancer7](https://github.com/user-attachments/assets/ba8d6e9b-f902-4341-bc5d-365eb0e37e4e)
 
-![loadbalancer8](https://github.com/user-attachments/assets/622e894a-3273-4267-a8b4-2bf74c6cef8b)
+![28](https://github.com/user-attachments/assets/be22918a-0019-4ffa-b31a-4ce34827b2c2)
+
+
+![29](https://github.com/user-attachments/assets/eb59c5b8-bc5d-47b3-86cf-781af0ae89e5)
+
+
+![30](https://github.com/user-attachments/assets/a888554a-f7c8-4c3c-90e6-782bd02772bb)
+
+![31](https://github.com/user-attachments/assets/1e9376a5-d1de-43e6-8940-60e27361adf4)
+
+
+![23](https://github.com/user-attachments/assets/710fc175-3ec1-4a1e-a9b9-efcd20dff47a)
+
 
 
 Now We Successfully deployed Application securely in Private instance , We can access it through Internet using Load Balancer Securely .
